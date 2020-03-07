@@ -1,3 +1,0 @@
-/Users/apple/Documents/caad/repos/ifcviewer/build/CMakeFiles/rebuild_cache.dir
-/Users/apple/Documents/caad/repos/ifcviewer/build/CMakeFiles/edit_cache.dir
-/Users/apple/Documents/caad/repos/ifcviewer/build/CMakeFiles/ifcviewer.dir
